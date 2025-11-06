@@ -8,7 +8,7 @@ export default function App() {
     const [showResultsPerson, setShowResultsPerson] = useState(false);
     const [showResultsTotal, setShowResultsTotal] = useState(false);
 
-    const API_BASE = 'http://localhost:3001';
+    const API_BASE = 'http://10.0.1.141:30001';
 
     const people = ['Fredrik', 'Erik', 'Frida', 'Micaela', 'Simon', 'Oskar', 'Andre', 'Per'];
 

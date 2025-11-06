@@ -35,4 +35,4 @@ app.post('/api/update-results', (req, res) => {
     });
 });
 
-app.listen(3001, () => console.log('Server running on http://localhost:3001'));
+app.listen("0.0.0.0", 30001, () => console.log('Server running on http://localhost:30001'));
