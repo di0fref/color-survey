@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/color-survey/build/static/css/main.3185fa95.css",
-    "main.js": "/color-survey/build/static/js/main.0a2d53ae.js",
+    "main.js": "/color-survey/build/static/js/main.114aba28.js",
     "static/js/453.2828106d.chunk.js": "/color-survey/build/static/js/453.2828106d.chunk.js",
     "index.html": "/color-survey/build/index.html",
     "main.3185fa95.css.map": "/color-survey/build/static/css/main.3185fa95.css.map",
-    "main.0a2d53ae.js.map": "/color-survey/build/static/js/main.0a2d53ae.js.map",
+    "main.114aba28.js.map": "/color-survey/build/static/js/main.114aba28.js.map",
     "453.2828106d.chunk.js.map": "/color-survey/build/static/js/453.2828106d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3185fa95.css",
-    "static/js/main.0a2d53ae.js"
+    "static/js/main.114aba28.js"
   ]
 }
